@@ -32,7 +32,7 @@ Las librerías empleadas en el proyecto son las siguientes:
 
 ## Ejecución del proyecto
 
-El proyecto está preparado para ser ejecutado en un entorno jupyter notebook, es necesario ejecutar el cuaderno de análisis Weather_analysis.ipynb e importar las librerías externas para su ejecución.
+El proyecto está preparado para ser ejecutado en un entorno jupyter notebook, es necesario ejecutar el cuaderno de análisis Weather_analysis.ipynb e importar las librerías externas para su ejecución. El archivo con el set de datos original work.csv, se modifica durante la ejecución del script, por lo que es recomendable copiar el archivo original antes de ejecutar el script, que se encuentra en /origen a la carpeta raiz del proyecto.
 
 ## Secciones del proyecto
 
